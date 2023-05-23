@@ -20,7 +20,12 @@
         "vue-template-compiler": "^2.7.14"
     },
     "dependencies": {
+        "@inertiajs/inertia-vue3": "^0.6.0",
         "@inertiajs/vue3": "^1.0.7",
-        "vue": "^3.2.36"
+        "echarts": "^5.4.2",
+        "laravel-echo": "^1.15.1",
+        "pusher-js": "^8.0.2",
+        "vue": "^3.2.36",
+        "vue-good-table": "^2.21.11"
     }
 }
